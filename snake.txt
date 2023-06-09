@@ -2,6 +2,3 @@ cobra
 naag
 ajgar
 dumuhhaah
-
-
-sid`

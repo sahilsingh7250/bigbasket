@@ -1,0 +1,5 @@
+it is just for trial purpose
+ to use ssh file in repo without id pass puahing
+**********
+
+thanks
